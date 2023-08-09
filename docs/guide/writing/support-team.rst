@@ -4,7 +4,7 @@ Producing documentation inside a Support team
 Advantages of working as a tech writer and support agent
 --------------------------------------------------------
 
-Working in support and documentation simultaneously comes with some advantages. As a documentarian, you receive direct user feedback through support, which helps you anticipate everyday use-cases. If you notice a mistake or that something is missing from the current documentation, you can ensure it’s changed yourself, without having to pass the task to another department. As a supporter, if you have also documented the product yourself, you have a deeper knowledge of where to point people, and since you have already used the product, it becomes easier to explain it to users.
+Working in support and documentation simultaneously comes with some advantages. As a documentarian, you receive direct user feedback through support, which helps you anticipate everyday use cases. If you notice a mistake or that something is missing from the current documentation, you can ensure it’s changed yourself, without having to pass the task to another department. As a supporter, if you have also documented the product yourself, you have a deeper knowledge of where to point people, and since you have already used the product, it becomes easier to explain it to users.
 
 Here are some tips for different cases:
 
@@ -74,5 +74,5 @@ Collaborate
 
 When a member of your team assigns you a doc issue, give them partial ownership of that issue. Even though you are writing the doc, they should be the one to review it to ensure that you are answering the issue correctly and there are no gaps. And once they do that, show gratitude. Ensure your team knows how much the collaborative relationship is valuable to the documentation. Small things, like showing how many hits an article that was created from an assigned issue gets per month will help your team understand how valuable their contributions are, and it will encourage even more contributions. 
 
-Even though being in a unique role within a team may feel awkward to you at first, the more you keep at it and work with your team, the more the benefits of the relationship will begin to shine. Eventually you will get to a point where the distinction between support and technical writer do not matter, because you are a team working as one.  
+Even though being in a unique role within a team may feel awkward to you at first, the more you keep at it and work with your team, the more the benefits of the relationship will begin to shine. Eventually you will get to a point where the distinction between support and technical writing do not matter, because you are a team working as one.  
   
