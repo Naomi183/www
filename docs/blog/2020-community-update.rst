@@ -26,7 +26,7 @@ We have now launched our `2020 Salary Survey <https://2020-salary-survey.writeth
 We were amazed by the response to our Salary Survey last year,
 with `650 responses <https://www.writethedocs.org/surveys/salary-survey/2019/>`__ and a lot of interesting data that came out of it.
 
-This annual survey, run by the Write the Docs community, aims to gather data about salaries for people working in documentation and related fields around the world. `Results of the inaugural survey <https://www.writethedocs.org/surveys/salary-survey/2019/>`__ are available on the our website.
+This annual survey, run by the Write the Docs community, aims to gather data about salaries for people working in documentation and related fields around the world. `Results of the inaugural survey <https://www.writethedocs.org/surveys/salary-survey/2019/>`__ are available on our website.
 
 We hope that this data can help our community members determine what appropriate salary ranges are, and provide a benchmark for future employment-related decisions and negotiations.
 Additionally, we’re hoping the results spark discussion of employment-related trends and issues in our industry, including but not limited to the effects of the COVID-19 pandemic.
@@ -108,7 +108,7 @@ Featured jobs
 * Google, `Technical Writer, Cloud Technologies and Tools  <https://jobs.writethedocs.org/job/215/>`__
 * Appian, `Senior Information Developer <https://jobs.writethedocs.org/job/214/>`__
 
-*To apply for these job, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
+*To apply for these jobs, or post your own, visit the* `Write the Docs job board <https://jobs.writethedocs.org/>`_.
 
 Thanks
 ------
